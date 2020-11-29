@@ -1,0 +1,20 @@
+,train set,validation set,test set
+Breast,827,749,775
+Colon,478,468,494
+Bile-duct,159,103,158
+Esophagus,155,128,141
+Cervix,155,52,86
+Adrenal_gland,134,148,155
+Thyroid,80,84,62
+Lung,80,53,51
+Pancreatic,78,89,28
+Prostate,77,37,68
+HeadNeck,70,169,145
+Liver,65,66,93
+Testis,60,79,57
+Skin,59,87,41
+Ovarian,54,40,52
+Stomach,50,48,48
+Kidney,37,56,41
+Bladder,21,61,64
+Uterus,17,6,163
