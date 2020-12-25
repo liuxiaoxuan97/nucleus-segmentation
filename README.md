@@ -1,2 +1,2 @@
 # nucleus-segmentation
-Capston project for HDSC 325
+This repo is for nucleus segmentation project using Pannuke Dataset.
